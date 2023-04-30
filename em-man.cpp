@@ -191,7 +191,7 @@ int main()
      cin>>password1;
      if(username==username1&&password==password1)
      {
-        system("CLS");
+        system("CLS"); 
         char user;
         while(1)
         {
